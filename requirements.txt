@@ -14,7 +14,6 @@ MarkupSafe==1.1.1
 mccabe==0.6.1
 mysql-connector==2.2.9
 pylint==2.5.0
-pyodbc==4.0.30
 requests==2.23.0
 six==1.14.0
 soupsieve==2.0
